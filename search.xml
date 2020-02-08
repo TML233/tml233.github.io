@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>修复 Photoshop 使用数位笔时撤销卡顿 - PStylusFix 2020</title>
+      <link href="/2020/02/08/pstylusfix-2020/"/>
+      <url>/2020/02/08/pstylusfix-2020/</url>
+      
+        <content type="html"><![CDATA[<p>最近使用数位笔用PS的时候撤销会卡个一秒，使用体验很差，便上网去搜了一下，找到了 Adobe 官方的解决方案。<br>鉴于里面包含的目录访问可能会比较复杂，于是就写了一个自动写配置文件的小工具。</p><h1 id="PStylusFix-2020"><a href="#PStylusFix-2020" class="headerlink" title="PStylusFix 2020"></a>PStylusFix 2020</h1><p>下载链接：<a href="https://pan.baidu.com/s/16_8kBvPBi_VG6L3DeN3dLA" target="_blank" rel="noopener">百度云盘</a> 提取码 <code>sscc</code></p><p>打开后选择自己的PS版本，点击修复后重启PS即可。</p><h1 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h1><p><em>Windows 8</em> 或更高的系统中对于数位笔提供了程序接口，在 <em>Adobe Photoshop CC 2014</em> 以及之后的版本中，会使用这些接口来读取数位笔的操作信息。然而——可能是 Adobe 弄巧成拙——在使用数位笔时进行撤销操作经常会卡顿，操作体验很差。Adobe 官方给出的方法是：通过写配置文件，强制PS使用以前旧的数位笔操作方法，解决了卡顿。我写的 <strong>PStylusFix</strong> 小工具就是去自动写这个配置文件，一键修复卡顿的问题。</p><h1 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h1><ul><li><a href="https://helpx.adobe.com/photoshop/kb/tablet-support-faq-photoshop.html" target="_blank" rel="noopener">What’s the best way to use a tablet with Photoshop on Windows 8 or later?</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程 </category>
+          
+          <category> C# </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PStylusFix </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>好起来了</title>
       <link href="/2020/01/20/first-post/"/>
       <url>/2020/01/20/first-post/</url>
