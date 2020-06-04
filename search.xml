@@ -8,7 +8,7 @@
       <link href="/2020/06/04/pixelart-1/"/>
       <url>/2020/06/04/pixelart-1/</url>
       
-        <content type="html"><![CDATA[<p>学习文章：<a href="https://www.bilibili.com/read/cv1744809" target="_blank" rel="noopener">开始画像素画 #3 [saint11像素宝典]</a></p><p><a href="https://www.bilibili.com/read/cv1739864" target="_blank" rel="noopener">#2</a> 的内容画到一半突然没动力了，先把后面的 <a href="https://www.bilibili.com/read/cv1744809" target="_blank" rel="noopener">#3</a> 完成了。</p><p>早上的时候先在手机上用 <strong>Pixel Studio</strong> 画了一个基础的小球：<br><img src="/2020/06/04/pixelart-1/ball-basic.png" alt></p><p>之后中午能用电脑的时候转到了 <strong>Aseprite</strong> 上了，画了小球<em>芜湖起飞</em>然后落地的动画：<br><img src="/2020/06/04/pixelart-1/ball-animated.gif" alt></p><ul><li>小球跳起前有一帧向下挤压的准备帧。<ul><li>要保证前后小球体积相同！</li></ul></li><li>跳起后在空中高速时会上下拉伸。<ul><li>为保证体积相同，同时会左右收缩。</li></ul></li><li>落下时空中高速同上。</li><li>落地后为体现落地冲击力，会向下挤压。</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>学习文章：<a href="https://www.bilibili.com/read/cv1744809" target="_blank" rel="noopener">开始画像素画 #3 [saint11像素宝典]</a></p><p><a href="https://www.bilibili.com/read/cv1739864" target="_blank" rel="noopener">#2</a> 的内容画到一半突然没动力了，先把后面的 <a href="https://www.bilibili.com/read/cv1744809" target="_blank" rel="noopener">#3</a> 完成了。</p><p>早上的时候先在手机上用 <strong>Pixel Studio</strong> 画了一个基础的小球：<br><img src="/2020/06/04/pixelart-1/ball-basic.png" alt="基础静态小球"></p><p>之后中午能用电脑的时候转到了 <strong>Aseprite</strong> 上了，画了小球<em>芜湖起飞</em>然后落地的动画：<br><img src="/2020/06/04/pixelart-1/ball-animated.gif" alt="小球动画后"></p><ul><li>小球跳起前有一帧向下挤压的准备帧。<ul><li>要保证前后小球体积相同！</li></ul></li><li>跳起后在空中高速时会上下拉伸。<ul><li>为保证体积相同，同时会左右收缩。</li></ul></li><li>落下时空中高速同上。</li><li>落地后为体现落地冲击力，会向下挤压。</li></ul>]]></content>
       
       
       
@@ -21,7 +21,7 @@
       <link href="/2020/06/04/pixelart-0/"/>
       <url>/2020/06/04/pixelart-0/</url>
       
-        <content type="html"><![CDATA[<p>学习文章：<a href="https://www.bilibili.com/read/cv1735452" target="_blank" rel="noopener">开始画像素画 #1 [saint11像素宝典]</a></p><p>画了几个16*16大小的小贴图，使用ARQ4调色盘。</p><p><img src="/2020/06/04/pixelart-0/cup.png" alt><br><img src="/2020/06/04/pixelart-0/sword.png" alt><br><img src="/2020/06/04/pixelart-0/skull.png" alt></p><ul><li>使用小分辨率和少量颜色的调色盘，在条件限制的情况下表现出想表现的内容。<ul><li>不重要的小细节可以舍去。</li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<p>学习文章：<a href="https://www.bilibili.com/read/cv1735452" target="_blank" rel="noopener">开始画像素画 #1 [saint11像素宝典]</a></p><p>画了几个16*16大小的小贴图，使用ARQ4调色盘。</p><p><img src="/2020/06/04/pixelart-0/cup.png" alt="水杯"><br><img src="/2020/06/04/pixelart-0/sword.png" alt="剑"><br><img src="/2020/06/04/pixelart-0/skull.png" alt="骷髅头"></p><ul><li>使用小分辨率和少量颜色的调色盘，在条件限制的情况下表现出想表现的内容。<ul><li>不重要的小细节可以舍去。</li></ul></li></ul>]]></content>
       
       
       
