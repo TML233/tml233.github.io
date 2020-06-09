@@ -4,11 +4,32 @@
   
     
     <entry>
+      <title>学习像素画 - 3</title>
+      <link href="/2020/06/09/pixelart-3/"/>
+      <url>/2020/06/09/pixelart-3/</url>
+      
+        <content type="html"><![CDATA[<p>学习文章：<a href="https://www.bilibili.com/read/cv1756525" target="_blank" rel="noopener">开始画像素画 #4 [saint11像素宝典]</a></p><p>加工给定像素图：<br><img src="/2020/06/09/pixelart-3/pic-original.png" alt="原图"></p><ol><li>添加投影和一点背景<br><img src="/2020/06/09/pixelart-3/pic-0.png" alt="原图"></li><li>给每个面添加经过光照影响后的颜色<br><img src="/2020/06/09/pixelart-3/pic-1.png" alt="原图"></li><li>将描边作为小面进行上色软化，细化背景，添加了一点抖动作为颜色间渐变，添加细节<br><img src="/2020/06/09/pixelart-3/pic-2.png" alt="原图"></li></ol><ul><li>上色时注意对比度，不要太低</li><li>不要过度软化物体光照，平面部分颜色应该一致，仅在曲面弯曲部分渐变颜色</li><li>上色前明确好光源位置，避免枕形阴影（沿面边缘上阴影）</li><li>用3D的思维思考物体的光照，而非2D的平面纸片</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 绘画 </category>
+          
+          <category> 像素画 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>学习像素画 - 2</title>
       <link href="/2020/06/06/pixelart-2/"/>
       <url>/2020/06/06/pixelart-2/</url>
       
-        <content type="html"><![CDATA[<p>学习文章：<a href="https://www.bilibili.com/read/cv1756525" target="_blank" rel="noopener">开始画像素画 #4 [saint11像素宝典]</a></p><p>光影要素总结如下：<br><img src="/2020/06/06/pixelart-2/ball.png" alt="光影球"></p><p>根据参考图绘制像素画：<br><img src="/2020/06/06/pixelart-2/figure-original.png" alt="参考图"></p><p>步骤记录如下：</p><ol><li>色块起形，加暗面<br><img src="/2020/06/06/pixelart-2/figure-0.png" alt="步骤 1"></li><li>加入细节、投影和高光<br><img src="/2020/06/06/pixelart-2/figure-1.png" alt="步骤 2"></li><li>调整形，加入亮面和脸部暗面和边缘光，删除了镜面高光<br><img src="/2020/06/06/pixelart-2/figure-2.png" alt="步骤 3"></li><li>加入抗锯齿<br><img src="/2020/06/06/pixelart-2/figure-3.png" alt="步骤 4"></li></ol><ul><li>先色块（颜色簇）起形，舍去光照效果，舍去部分小细节，重要的细节适当调整大小</li><li>步骤 3 中删去了步骤 2 中可读性不好的镜面高光，为了可读性可适当修改部分内容</li></ul><p>文章后半内容下次再做……</p>]]></content>
+        <content type="html"><![CDATA[<p>学习文章：<a href="https://www.bilibili.com/read/cv1756525" target="_blank" rel="noopener">开始画像素画 #4 [saint11像素宝典]</a></p><p>光影要素总结如下：<br><img src="/2020/06/06/pixelart-2/ball.png" alt="光影球"></p><p>根据参考图绘制像素画：<br><img src="/2020/06/06/pixelart-2/figure-original.png" alt="参考图"></p><ol><li>色块起形，加暗面<br><img src="/2020/06/06/pixelart-2/figure-0.png" alt="步骤 1"></li><li>加入细节、投影和高光<br><img src="/2020/06/06/pixelart-2/figure-1.png" alt="步骤 2"></li><li>调整形，加入亮面和脸部暗面和边缘光，删除了镜面高光<br><img src="/2020/06/06/pixelart-2/figure-2.png" alt="步骤 3"></li><li>加入抗锯齿<br><img src="/2020/06/06/pixelart-2/figure-3.png" alt="步骤 4"></li></ol><ul><li>先色块（颜色簇）起形，舍去光照效果，舍去部分小细节，重要的细节适当调整大小</li><li>步骤 3 中删去了步骤 2 中可读性不好的镜面高光，为了可读性可适当修改部分内容</li></ul><p>文章后半内容下次再做……</p>]]></content>
       
       
       <categories>
