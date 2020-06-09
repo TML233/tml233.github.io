@@ -8,7 +8,7 @@
       <link href="/2020/06/09/pixelart-3/"/>
       <url>/2020/06/09/pixelart-3/</url>
       
-        <content type="html"><![CDATA[<p>学习文章：<a href="https://www.bilibili.com/read/cv1756525" target="_blank" rel="noopener">开始画像素画 #4 [saint11像素宝典]</a></p><p>加工给定像素图：<br><img src="/2020/06/09/pixelart-3/pic-original.png" alt="原图"></p><ol><li>添加投影和一点背景<br><img src="/2020/06/09/pixelart-3/pic-0.png" alt="原图"></li><li>给每个面添加经过光照影响后的颜色<br><img src="/2020/06/09/pixelart-3/pic-1.png" alt="原图"></li><li>将描边作为小面进行上色软化，细化背景，添加了一点抖动作为颜色间渐变，添加细节<br><img src="/2020/06/09/pixelart-3/pic-2.png" alt="原图"></li></ol><ul><li>上色时注意对比度，不要太低</li><li>不要过度软化物体光照，平面部分颜色应该一致，仅在曲面弯曲部分渐变颜色</li><li>上色前明确好光源位置，避免枕形阴影（沿面边缘上阴影）</li><li>用3D的思维思考物体的光照，而非2D的平面纸片</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>学习文章：<a href="https://www.bilibili.com/read/cv1756525" target="_blank" rel="noopener">开始画像素画 #4 [saint11像素宝典]</a></p><p>加工给定像素图：<br><img src="/2020/06/09/pixelart-3/pic-original.png" alt="原图"></p><ol><li>添加投影和一点背景<br><img src="/2020/06/09/pixelart-3/pic-0.png" alt="步骤 1"></li><li>给每个面添加经过光照影响后的颜色<br><img src="/2020/06/09/pixelart-3/pic-1.png" alt="步骤 2"></li><li>将描边作为小面进行上色软化，细化背景，添加了一点抖动作为颜色间渐变，添加细节<br><img src="/2020/06/09/pixelart-3/pic-2.png" alt="步骤 3"></li></ol><ul><li>上色时注意对比度，不要太低</li><li>不要过度软化物体光照，平面部分颜色应该一致，仅在曲面弯曲部分渐变颜色</li><li>上色前明确好光源位置，避免枕形阴影（沿面边缘上阴影）</li><li>用3D的思维思考物体的光照，而非2D的平面纸片</li></ul>]]></content>
       
       
       <categories>
